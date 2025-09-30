@@ -1,4 +1,6 @@
-# Main options
+# Netz39 e.V. EndOf10 GRUB2 Theme
+# Designed for 1920x1080 resolution
+
 title-text: ""
 desktop-image: "background.png"
 desktop-color: "#000000"
@@ -29,7 +31,7 @@ terminal-border: "0"
   left = 7%
   top = 41%
   width = 40%
-  height = 65%
+  height = 38%
   item_font = "DIN 2014 Regular 23"
   item_color = "#cccccc"
   selected_item_color = "#ffffff"
