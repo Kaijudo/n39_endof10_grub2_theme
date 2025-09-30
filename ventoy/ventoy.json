@@ -2,7 +2,10 @@
     "theme": {
         "file": "/ventoy/themes/N39EndOf10/theme.txt",
         "gfxmode": "1920x1080",
-        "display_mode": "GUI"
+        "display_mode": "GUI",
+        "ventoy_left": "90%",
+        "ventoy_top": "98%",
+        "ventoy_color": "#ffffff"
     },
     "menu_class": [
         {
