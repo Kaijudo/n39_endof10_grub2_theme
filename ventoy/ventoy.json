@@ -1,0 +1,97 @@
+{
+    "theme": {
+        "file": "/ventoy/themes/N39EndOf10/theme.txt",
+        "gfxmode": "1920x1080",
+        "display_mode": "GUI"
+    },
+    "menu_class": [
+        {
+            "key": "AlmaLinux",
+            "class": "AlmaLinux"
+        },
+        {
+            "key": "alpine",
+            "class": "AlpineLinux"
+        },
+        {
+            "key": "archlinux",
+            "class": "archlinux"
+        },
+        {
+            "key": "CentOS",
+            "class": "centos"
+        },
+        {
+            "key": "debian",
+            "class": "debian"
+        },
+        {
+            "key": "EndeavourOS",
+            "class": "endeavouros"
+        },
+        {
+            "key": "Fedora",
+            "class": "fedora"
+        },
+        {
+            "key": "FreeBSD",
+            "class": "freebsd"
+        },
+        {
+            "key": "Gentoo",
+            "class": "gentoo"
+        },
+        {
+            "key": "kali",
+            "class": "kali"
+        },
+        {
+            "key": "kubuntu",
+            "class": "kubuntu"
+        },
+        {
+            "key": "linux-lite",
+            "class": "linuxlite"
+        },
+        {
+            "key": "linuxmint",
+            "class": "linuxmint"
+        },
+        {
+            "key": "lubuntu",
+            "class": "lubuntu"
+        },
+        {
+            "key": "manjaro",
+            "class": "manjaro"
+        },
+        {
+            "key": "ubuntu-mate",
+            "class": "mate"
+        },
+        {
+            "key": "nixos",
+            "class": "nix"
+        },
+        {
+            "key": "Nobara",
+            "class": "nobara"
+        },
+        {
+            "key": "Parrot",
+            "class": "parrot"
+        },
+        {
+            "key": "pop-os",
+            "class": "pop"
+        },
+        {
+            "key": "Rocky",
+            "class": "rocky"
+        },
+        {
+            "key": "ubuntu",
+            "class": "ubuntu"
+        }
+    ]
+}
